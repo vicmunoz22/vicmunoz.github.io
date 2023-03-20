@@ -1,0 +1,17 @@
+
+            body {
+                background-color: rgb(192, 164, 192)
+            }
+            p {
+color: #dadade;
+            }
+            h1 {
+                font-family: sans-serif; color: #dadade;
+                font-size: x-small;
+            }
+            .escarcha {
+                font-weight: 12;
+            }
+            ul {
+                color: black;
+            }
